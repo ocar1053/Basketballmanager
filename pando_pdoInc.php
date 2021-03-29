@@ -1,7 +1,7 @@
 <?php
 $db_server = "localhost";
-$db_user = "harrybou";
-$db_passwd = "5k4g4au4a83";
+$db_user = "機密";
+$db_passwd = "機密";
 $db_name = "pando";
  
 try {
